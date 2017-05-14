@@ -1,0 +1,6 @@
+// READ ME
+
+// Author: Xiangru Zhou 
+// Date: 02/23/2017
+// I use hadoop map-reduce and Java with JDK 1.7 to solve this 4 questions
+
