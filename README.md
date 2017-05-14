@@ -1,5 +1,5 @@
 # Hadoop-Map-Reduce-on-Yelp-Dataset
-Big data Management Analytics and Management  - 1
+Big data Analytics and Management  - 1
 
 Created by Xiangru Zhou
 
