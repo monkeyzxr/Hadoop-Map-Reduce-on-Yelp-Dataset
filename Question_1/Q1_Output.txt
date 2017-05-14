@@ -1,0 +1,190 @@
+Shopping	
+Antiques	
+Professional Services	
+Event Planning & Services	
+Caterers	
+Food	
+Coffee & Tea	
+Fashion	
+Shoe Stores	
+Optometrists	
+Health and Medical	
+Eyewear & Opticians	
+Doctors	
+Internal Medicine	
+Allergists	
+Obstetricians and Gynecologists	
+Pediatricians	
+Drugstores	
+Neurologist	
+Podiatrists	
+Auto Repair	
+Automotive	
+Jewelry	
+Women's Clothing	
+Accessories	
+Men's Clothing	
+Leather Goods	
+Pizza	
+Restaurants	
+American (New)	
+Skin Care	
+Beauty and Spas	
+Cosmetic Surgeons	
+Home Services	
+Real Estate	
+Apartments	
+Fertility	
+Children's Clothing	
+Ice Cream & Frozen Yogurt	
+American (Traditional)	
+Diners	
+Hot Dogs	
+Juice Bars & Smoothies	
+Nail Salons	
+Hair Salons	
+Day Spas	
+Mexican	
+Physical Therapy	
+Active Life	
+Tennis	
+Hospitals	
+Medical Centers	
+Desserts	
+Food Stands	
+Museums	
+Arts & Entertainment	
+Watches	
+Pets	
+Pet Stores	
+Hotels & Travel	
+Taxis	
+Transportation	
+Cosmetics & Beauty Supply	
+Cards & Stationery	
+Arts & Crafts	
+Flowers & Gifts	
+Specialty Food	
+Chocolatiers and Shops	
+Home & Garden	
+Electronics	
+Local Services	
+Shoe Repair	
+Asian Fusion	
+Bakeries	
+Banks & Credit Unions	
+Financial Services	
+Butcher	
+Seafood Markets	
+Department Stores	
+Furniture Stores	
+Grocery	
+Fruits & Veggies	
+Farmers Market	
+Bars	
+Nightlife	
+Dry Cleaning & Laundry	
+Food Delivery Services	
+Churches	
+Religious Organizations	
+Burgers	
+Middle Schools & High Schools	
+Education	
+Adult Education	
+Delis	
+Community Service/Non-Profit	
+Sporting Goods	
+Outdoor Gear	
+Steakhouses	
+Brazilian	
+Venues & Event Spaces	
+Performing Arts	
+Hair Removal	
+Cafes	
+Sports Wear	
+Sports Clubs	
+Luggage	
+Retirement Homes	
+Hotels	
+Tanning	
+Computers	
+Car Rental	
+Sewing & Alterations	
+Shopping Centers	
+Breakfast & Brunch	
+Italian	
+Barbers	
+Nurseries & Gardening	
+Pilates	
+Gyms	
+Fitness & Instruction	
+Pet Services	
+Veterinarians	
+Pet Boarding/Pet Sitting	
+Beer	
+Wine & Spirits	
+Greek	
+Mediterranean	
+Florists	
+Massage	
+Sandwiches	
+Pediatric Dentists	
+Dentists	
+Oral Surgeons	
+Gastroenterologist	
+General Dentistry	
+Periodontists	
+Fast Food	
+Party & Event Planning	
+Cosmetic Dentists	
+Colleges & Universities	
+Psychiatrists	
+Dog Walkers	
+Dermatologists	
+Family Practice	
+Orthopedists	
+Sports Medicine	
+Cardiologists	
+Surgeons	
+Kitchen & Bath	
+Home Decor	
+Smog Check Stations	
+Car Wash	
+Korean	
+Interior Design	
+Creperies	
+French	
+Shipping Centers	
+Bikes	
+Seafood	
+Vietnamese	
+Travel Services	
+Books	
+Mags	
+Music and Video	
+Bookstores	
+Maternity Wear	
+Baby Gear & Furniture	
+Hardware Stores	
+Oncologist	
+Gluten-Free	
+Chinese	
+Ear Nose & Throat	
+Laser Hair Removal	
+Tires	
+Bike Rentals	
+Public Transportation	
+Local Flavor	
+Stadiums & Arenas	
+Weight Loss Centers	
+Medical Spas	
+Trainers	
+Child Care & Day Care	
+Parks	
+Wine Bars	
+Art Galleries	
+Framing	
+Photographers	
+Indian	
+Sushi Bars	
+Toy Stores	
